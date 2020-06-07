@@ -2,9 +2,9 @@ package words.maven.build;
 
 import org.apache.commons.lang3.StringUtils; 
 
-public class WordsTest { 
+public class WordTestApp { 
 	
-	public WordsTest() { } 
+	public WordTestApp() { } 
 
 	public int countWords(String words) { 
 
